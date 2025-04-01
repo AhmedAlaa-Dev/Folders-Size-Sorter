@@ -1,16 +1,17 @@
-# Folder Size Analyzer
+## How to Use
 
-## 📁 How to Use
+### 1. **📂 Place the Batch File**
+   - Move the batch file into the main directory that contains subfolders whose sizes you want to analyze.
 
-### 1. Place the Batch File
-Move the batch file into the **main directory** that contains the subfolders you want to analyze.
+### 2. **🚀 Run the Script**
+   - Simply **double-click** the batch file to execute it.
 
-### 2. Run the Script
-Simply **double-click** the batch file to execute it.
+### 3. **📊 View the Results**
+   The script will automatically:
+   - Display the sizes of each subfolder, sorted from **largest** to **smallest**.  
+   - Save the output in a `.txt` file for later reference.
 
-### 3. View the Results
-The script will automatically:
-- Display each subfolder's size (**sorted largest to smallest**)
-- Save the ranked list in a `FoldersSize_Sorted.txt` file
+---
 
-💡 **That's it!** The batch file creates a sorted size ranking of all folders – use the data to analyze, organize, or optimize however you prefer.
+### 🎉 That’s It!
+The batch file creates a **sorted size ranking** of all folders – now you can analyze, organize, or optimize however you prefer.
