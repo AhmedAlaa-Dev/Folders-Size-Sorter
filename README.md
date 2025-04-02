@@ -14,4 +14,4 @@
 ---
 
 ### 🎉 That’s It!
-The batch file creates a **sorted size ranking** of all folders – now you can analyze, organize, or optimize however you prefer.
+The batch file creates a **sorted size ranking** of all folders – now you've got a clear view of which folders take up the most space.
